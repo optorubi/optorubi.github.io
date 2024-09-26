@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://optorubi.github.io/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/app/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/assets/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/css/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/data/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/includes/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/item/sitemap.optorubi.gz
+Sitemap: https://optorubi.github.io/src/sitemap.optorubi.gz
